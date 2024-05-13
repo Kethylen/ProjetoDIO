@@ -1,15 +1,14 @@
 package estruturas_repeticoes;
 
-public class Ex8_While {
+public class Ex7_EstruturaDoWhile {
 	public static void main (String [] args) {
 		
 		int num = 5, count = 1;
-		    while(count <= 3) {
-			++count;
+		do {
 			num += count;
-		  }
-		  System.out.println(num);	
-				
+			System.out.println(num);
+		}while (count <= 3);
+		
 	}
 
 }
