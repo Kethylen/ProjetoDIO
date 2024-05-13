@@ -1,4 +1,4 @@
-package arrays;
+package arrays_exemplos;
 
 public class Ex5_Arrays {
 	public static void main (String [] args) { 		

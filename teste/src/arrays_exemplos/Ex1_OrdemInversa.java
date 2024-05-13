@@ -1,4 +1,4 @@
-package arrays;
+package arrays_exemplos;
 
 /*
 Crie um valor de 6 números inteiros
